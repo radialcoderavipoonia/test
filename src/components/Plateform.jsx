@@ -40,7 +40,7 @@ const Plateform = () => {
                         </p>
 
                         <div className="mt_43 mb_26 d-flex justify-content-md-start justify-content-center">
-                          <button className=" p_button header_card overflow-hidden position-relative box_shadow_hover bg_orange border-0 color_white ff_manrope fw_600 fs_sm ">
+                          <button className=" p_button header_card overflow-hidden position-relative  bg_orange border-0 color_white ff_manrope fw_600 fs_sm ">
                             Learn More
                           </button>
                         </div>
